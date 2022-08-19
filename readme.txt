@@ -76,6 +76,6 @@ Image -- this folder contains all the images used in the games. It is the source
 
 !!!!!!!!!!!!!!!!!!   In case of any misunderstanding, or any issue   !!!!!!!!!!!!!!!!!!
 
-<<<<<  Feel free to drop a mail at any of the below address  >>>>>
+<<<<<  Feel free to drop a mail at the below address  >>>>>
 
 #  19bce049@nirmauni.ac.in
